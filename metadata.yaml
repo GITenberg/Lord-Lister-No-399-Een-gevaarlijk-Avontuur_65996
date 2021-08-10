@@ -1,0 +1,25 @@
+_repo: Lord-Lister-No-399-Een-gevaarlijk-Avontuur_65996
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Blakensee, Theo
+    gutenberg_agent_id: '53586'
+    url: http://www.gutenberg.org/2009/agents/53586
+  - agent_name: Matull, Kurt
+    birthdate: 1872
+    gutenberg_agent_id: '40698'
+    url: http://www.gutenberg.org/2009/agents/40698
+    wikipedia: https://de.wikipedia.org/wiki/Kurt_Matull
+description: ''
+gutenberg_issued: '2021-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65996'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Lord Lister No. 399: Een gevaarlijk Avontuur'
+url: http://www.gutenberg.org/ebooks/65996
